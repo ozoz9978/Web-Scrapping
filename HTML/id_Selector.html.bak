@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <style>
+	#para1 {
+		text-align:center;
+		color:red
+	}  
+  </stlye>
+  <title>ID Selector</title>
+ </head>
+ <body>
+  <p id="para1">Hello World!></p>
+  <p>This paragraph is not affected by the style.</p>
+ </body>
+</html>

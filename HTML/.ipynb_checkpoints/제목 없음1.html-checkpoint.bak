@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<meta charset='UTF-8'>
+	</head>	
+	<body>
+		<h2>href 속성</h2>
+		<p>HTML 링크는 a태그로 정의된다.</p>
+		<a href = "https://www.tradecampus.com">TradeCampus에 방문하기</a>
+
+	</body>
+
+</html>
